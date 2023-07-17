@@ -60,7 +60,7 @@
 
 <br/>  
 
-[![codewars](https://www.codewars.com/users/rsschool_10428e4f6231f182) 
+[[![codewars](https://www.codewars.com/users/rsschool_10428e4f6231f182) ](https://www.codewars.com/users/rsschool_10428e4f6231f182/badges/large)
 
 <br />
 
